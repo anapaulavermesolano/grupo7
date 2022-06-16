@@ -1,0 +1,8 @@
+.icon-settings a{
+    display: flex !important;
+    align-items: center;
+}
+
+.icon-settings a i{
+    font-size: 30px;
+}
